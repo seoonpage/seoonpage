@@ -13,7 +13,7 @@
 
 ---
 
-OnPage.dev checks pages for Google and for AI search, and gives your assistant 35 tools to act on it: scan, write the fix, check it before deploy, confirm it worked, and keep watching after launch. Free, hosted, no account and no API key.
+OnPage.dev checks pages for Google and for AI search, and gives your assistant 36 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
 
 **Connect it in one minute.** Add this URL as a connector in Claude, ChatGPT, Cursor or VS Code:
 
@@ -28,6 +28,7 @@ https://onpage.dev/mcp
 - Fixes ranked by traffic, using the Search Console, GA4, Ahrefs or Semrush data already in the chat
 - The first screen on phone, tablet and desktop in a real browser, and a screen reader view that shows every link, button and image announced without a name
 - Action plans sent where the team works: Google Sheets (one formula, no connector), Slack, Notion, Linear, Jira or GitHub Issues
+- Before and after impact measurement with Search Console, GA4 or Ahrefs data, against unchanged pages as a control group
 - Daily watches that alert by RSS or webhook when a `noindex`, redirect or blocked AI crawler sneaks in
 - Content briefs from the pages that rank, 301 redirect maps for migrations, and shareable before and after links
 
