@@ -13,7 +13,7 @@
 
 ---
 
-OnPage.dev checks pages for Google and for AI search, and gives your assistant 36 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
+OnPage.dev checks pages for Google and for AI search, and gives your assistant 37 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
 
 **Connect it in one minute.** Add this URL as a connector in Claude, ChatGPT, Cursor or VS Code:
 
