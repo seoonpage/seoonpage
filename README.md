@@ -14,7 +14,7 @@
 
 ---
 
-OnPage.dev checks pages for Google and for AI search, and gives your assistant 47 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, ship it to WordPress or as a pull request, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
+OnPage.dev checks pages for Google and for AI search, and gives your assistant 48 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, ship it to WordPress or as a pull request, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
 
 **Connect it in one minute.** Add this URL as a connector in Claude, ChatGPT, Cursor or VS Code:
 
@@ -29,6 +29,7 @@ https://onpage.dev/mcp
 - Client-side React, Vue and Angular apps loaded in a real browser, with what AI crawlers miss
 - Core Web Vitals from real Chrome visitors, and server logs that show what Googlebot and AI crawlers really crawl
 - Accessibility against WCAG 2.1 AA for the European Accessibility Act, ecommerce product pages, cookie consent and Consent Mode v2, and the answer format that wins featured snippets
+- Question coverage for AI Mode: the sub-questions AI search fans out for a topic, and which ones your page misses
 - Topic clusters from Search Console: which page owns each topic, where pages compete and which topics have no page
 - AI visibility: crawler access, llms.txt, entity graph and citability checks
 - Fixes ranked by traffic, using the Search Console, GA4, Ahrefs or Semrush data already in the chat
