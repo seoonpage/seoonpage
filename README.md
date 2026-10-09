@@ -26,7 +26,8 @@ https://onpage.dev/mcp
 
 - Audits with stable issue codes, ready fixes and JSON-LD, checked before deploy with `scan_html`
 - Fixes shipped where the code lives: the exact Yoast SEO or Rank Math fields for WordPress, a Git pull request for Next.js, Nuxt, SvelteKit, Astro, Angular, React or Vue, or a Cloudflare Worker that fixes any CMS at the edge
-- Every shipped fix logged and kept live: checked about every 6 hours, the restore code sent when a deploy undoes one, the result measured per fix with a rollback plan, and a client-ready report
+- Every shipped fix logged and kept live: checked about every 6 hours, the restore code sent when a deploy undoes one, the result measured per fix with a rollback plan, a client-ready report, GA4 annotations and a GitHub Action that opens an issue when a deploy undoes a fix
+- Competitor pages watched: every new section, schema or length jump, with the counter-move for your page
 - GA4 debugged in a real browser: double counting, tracking before consent and a cookie banner that never passes consent on
 - Local SEO and internal link equity: LocalBusiness markup, NAP consistency, a page per location, internal PageRank and click depth
 - Client-side React, Vue and Angular apps loaded in a real browser, with what AI crawlers miss
