@@ -14,7 +14,7 @@
 
 ---
 
-OnPage.dev checks pages for Google and for AI search, and gives your assistant 63 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, ship it to WordPress or as a pull request, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
+OnPage.dev checks pages for Google and for AI search, and gives your assistant 67 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, ship it to WordPress or as a pull request, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
 
 **Connect it in one minute.** Add this URL as a connector in Claude, ChatGPT, Cursor or VS Code:
 
@@ -28,6 +28,7 @@ https://onpage.dev/mcp
 - Fixes shipped where the code lives: the exact Yoast SEO or Rank Math fields for WordPress, a Git pull request for Next.js, Nuxt, SvelteKit, Astro, Angular, React or Vue, or a Cloudflare Worker that fixes any CMS at the edge
 - Every shipped fix logged and kept live: checked about every 6 hours, the restore code sent when a deploy undoes one, the result measured per fix with a rollback plan, a client-ready report, GA4 annotations and a GitHub Action that opens an issue when a deploy undoes a fix
 - Whole sections fixed at once with one edge rule, and JavaScript apps made readable for AI crawlers with a prerender Worker on your own Cloudflare account
+- A technical audit without gaps: sitemap checks, custom extraction across pages, near-duplicate groups and URL parameter crawl traps
 - Measured, not guessed: why traffic dropped, page-1 results nobody clicks, queries almost on page 1, real-user speed before and after, and AI citations against a control group
 - Pages missing from Google explained: Search Console URL Inspection results turned into causes and fixes
 - Competitor pages watched: every new section, schema or length jump, with the counter-move for your page
