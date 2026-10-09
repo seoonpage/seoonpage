@@ -14,7 +14,7 @@
 
 ---
 
-OnPage.dev checks pages for Google and for AI search, and gives your assistant 53 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, ship it to WordPress or as a pull request, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
+OnPage.dev checks pages for Google and for AI search, and gives your assistant 55 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, ship it to WordPress or as a pull request, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
 
 **Connect it in one minute.** Add this URL as a connector in Claude, ChatGPT, Cursor or VS Code:
 
@@ -25,7 +25,10 @@ https://onpage.dev/mcp
 **What agents use it for**
 
 - Audits with stable issue codes, ready fixes and JSON-LD, checked before deploy with `scan_html`
-- Fixes shipped where the code lives: the exact Yoast SEO or Rank Math fields for WordPress, or a Git pull request for Next.js, Nuxt, SvelteKit, Astro, Angular, React or Vue
+- Fixes shipped where the code lives: the exact Yoast SEO or Rank Math fields for WordPress, a Git pull request for Next.js, Nuxt, SvelteKit, Astro, Angular, React or Vue, or a Cloudflare Worker that fixes any CMS at the edge
+- Every shipped fix logged and kept live: checked about every 6 hours, the restore code sent when a deploy undoes one, the result measured per fix with a rollback plan, and a client-ready report
+- GA4 debugged in a real browser: double counting, tracking before consent and a cookie banner that never passes consent on
+- Local SEO and internal link equity: LocalBusiness markup, NAP consistency, a page per location, internal PageRank and click depth
 - Client-side React, Vue and Angular apps loaded in a real browser, with what AI crawlers miss
 - Core Web Vitals from real Chrome visitors, and server logs that show what Googlebot and AI crawlers really crawl
 - Accessibility against WCAG 2.1 AA for the European Accessibility Act, ecommerce product pages, cookie consent and Consent Mode v2, and the answer format that wins featured snippets
