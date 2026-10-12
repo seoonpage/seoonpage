@@ -14,7 +14,7 @@
 
 ---
 
-OnPage.dev checks pages for Google and for AI search, and gives your assistant 74 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, ship it to WordPress or as a pull request, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
+OnPage.dev checks pages for Google and for AI search, and gives your assistant 76 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, ship it to WordPress or as a pull request, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
 
 **Connect it in one minute.** Add this URL as a connector in Claude, ChatGPT, Cursor or VS Code:
 
@@ -27,6 +27,7 @@ https://onpage.dev/mcp
 - Audits with stable issue codes, ready fixes and JSON-LD, checked before deploy with `scan_html`
 - Fixes shipped where the code lives: the exact Yoast SEO or Rank Math fields for WordPress, a Git pull request for Next.js, Nuxt, SvelteKit, Astro, Angular, React or Vue, or a Cloudflare Worker that fixes any CMS at the edge
 - Every shipped fix logged and kept live: checked about every 6 hours, the restore code sent when a deploy undoes one, the result measured per fix with a rollback plan, a client-ready report, GA4 annotations and a GitHub Action that opens an issue when a deploy undoes a fix
+- Links to win and AI answers to enter: sites that link to competitors but not to you, unlinked brand mentions checked live, and the questions where ChatGPT or Perplexity name competitors and not you, with the sites they cite
 - Lost links and visits won back: broken and lost backlinks from Ahrefs or Semrush and 404 hits from GA4, ranked by link value and visits, turned into 301 rules, link edits and an outreach list
 - Bring your own crawl: Screaming Frog, Ahrefs or Semrush rows, up to 500 pages, so every audit tool covers the whole site
 - What changed since the last audit: regressions, new and fixed issues across the whole site, also on a weekly schedule with alerts to Slack or Discord
