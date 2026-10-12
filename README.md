@@ -14,7 +14,7 @@
 
 ---
 
-OnPage.dev checks pages for Google and for AI search, and gives your assistant 79 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, ship it to WordPress or as a pull request, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
+OnPage.dev checks pages for Google and for AI search, and gives your assistant 83 tools to run the whole loop: find what is wrong, write the fix, check it before deploy, ship it to WordPress or as a pull request, send the plan to the team, keep watching, and measure the traffic it won. Free, hosted, no account and no API key.
 
 **Connect it in one minute.** Add this URL as a connector in Claude, ChatGPT, Cursor or VS Code:
 
@@ -39,6 +39,7 @@ https://onpage.dev/mcp
 - GA4 debugged in a real browser: double counting, tracking before consent and a cookie banner that never passes consent on
 - Local SEO and internal link equity: LocalBusiness markup, NAP consistency, a page per location, internal PageRank and click depth
 - Client-side React, Vue and Angular apps loaded in a real browser, with what AI crawlers miss
+- SEO split tests on a template, client-ready audit reports and PDFs, spelling checks and clean sitemaps
 - Speed fixes and alt texts as code, and a refresh queue of pages that slowly lose traffic
 - Core Web Vitals from real Chrome visitors, and server logs that show what Googlebot and AI crawlers really crawl
 - Accessibility against WCAG 2.1 AA for the European Accessibility Act, ecommerce product pages, cookie consent and Consent Mode v2, and the answer format that wins featured snippets
